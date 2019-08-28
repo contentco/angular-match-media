@@ -75,10 +75,11 @@
   function screenSize($rootScope) {
 
     var defaultRules = {
-      lg: '(min-width: 1200px)',
-      md: '(min-width: 992px) and (max-width: 1199px)',
-      sm: '(min-width: 768px) and (max-width: 991px)',
-      xs: '(max-width: 767px)'
+      lg: '(min-width: 1280px)',
+      md: '(min-width: 960px) and (max-width: 1280px)',
+      sm: '(min-width: 700px) and (max-width: 960px)',
+      sx: '(min-width: 485px) and (max-width: 700px)',
+      xs: '(max-width: 485px)'
     };
 
     this.isRetina = (
