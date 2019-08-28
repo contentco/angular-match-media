@@ -1,5 +1,5 @@
 {
-  "name": "angular-media-queries",
+  "name": "cc-media-queries",
   "version": "0.7.0",
   "description": "Angular service to test if a given @media statment is true.",
   "main": "match-media.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jacopotarantino/angular-match-media.git"
+    "url": "git+https://github.com/contentco/angular-match-media.git"
   },
   "keywords": [
     "angular",
@@ -23,7 +23,7 @@
   ],
   "license": "CC-BY-SA-4.0",
   "bugs": {
-    "url": "https://github.com/jacopotarantino/angular-match-media/issues"
+    "url": "https://github.com/contentco/angular-match-media/issues"
   },
-  "homepage": "https://github.com/jacopotarantino/angular-match-media#readme"
+  "homepage": "https://github.com/contentco/angular-match-media#readme"
 }
